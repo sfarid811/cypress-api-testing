@@ -11,5 +11,3 @@ Suite de tests API construite avec **Cypress**, axée sur les appels REST, la si
 - Validation du corps, headers, status
 - Tests d'erreurs et cas limites (timeout, erreurs 500, etc.)
 - Dépendances mockées = tests stables et rapides
-
----
